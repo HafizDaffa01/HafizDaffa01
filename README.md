@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**HafizDaffa01/HafizDaffa01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Daffa, a passionate Python Developer with over 4 years of experience in creating innovative projects.
 
-Here are some ideas to get you started:
+**🚀 About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏢 Founder of [Delta Studios](https://github.com/DeltaStudios01)
+- 🔭 I’m currently working on: BetterCMD (an app that works like a normal window's command prompt but enhanced).
+- 🌱 I’m learning: AI, IoT, and Web Development.
+- 👯 I’m looking to collaborate on: Making Game or App.
+- 💬 Ask me about: Python, and Web Development.
+- ⚡ Fun fact: I play Minecraft, Among Us, and TF2.
+
+## 🔧 Tech Stack
+- **Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Tkinter, Flask, Textual
+- **Tools**: VS Code
+
+## 📊 GitHub Stats
+![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HafizDaffa01&show_icons=true&theme=cobalt&cache_seconds=5)
+![Daffa's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeltaStudios01&show_icons=true&theme=cobalt&cache_seconds=5)
