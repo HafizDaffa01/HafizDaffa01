@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Daffa, a Developer from Indonesia </h2>
+<h2 align="left">Sup 👋! Name's Daffa.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HafizDaffa01&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
