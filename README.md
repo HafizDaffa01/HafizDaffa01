@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeltaStudios01&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=HafizDaffa01&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HafizDaffa01&" height="150" alt="activity-graph graph"  />
 </p>
 
 ---
