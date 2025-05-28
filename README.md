@@ -1,5 +1,7 @@
 <h2 align="left">Sup 👋! Name's Daffa.
 
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HafizDaffa01&show_icons=true&theme=dracula&hide_border=false" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HafizDaffa01&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
