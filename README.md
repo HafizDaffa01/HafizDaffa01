@@ -42,8 +42,6 @@
 
 ---
 
-### 🐍 Snake Game Contribution Graph
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/HafizDaffa01/HafizDaffa01/output/snake.svg" alt="Snake animation" />
 </p>
