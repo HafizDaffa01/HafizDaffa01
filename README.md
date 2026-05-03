@@ -12,7 +12,7 @@
 ### 🚀 About Me
 
 - 🧠 Passionate Python Developer with 4+ years of experience.
-- 🏢 Founder of [Delta Studios](https://github.com/DeltaStudios01)
+- 🏢 Founder of [Enginostek Labs](https://github.com/EnginostekLabs01)
 - 🔭 Currently working on: **BetterCMD**, **WebsiteBuilder**.
 - 🌱 Learning: AI, IoT, and Web Development.
 - 👯 Open to collaborate on: Games and Apps.
