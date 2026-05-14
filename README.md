@@ -1,1 +1,2 @@
-# Coder with curiosity👀
+## Coder with curiosity👀
+### "Learn from ur mistake"
